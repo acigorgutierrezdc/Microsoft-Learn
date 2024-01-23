@@ -1,0 +1,14 @@
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\obj\Debug\net6.0\Samples-CSharp-Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\obj\Debug\net6.0\Samples-CSharp-Basic.AssemblyInfoInputs.cache
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\obj\Debug\net6.0\Samples-CSharp-Basic.AssemblyInfo.cs
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\obj\Debug\net6.0\Samples-CSharp-Basic.csproj.CoreCompileInputs.cache
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\bin\Debug\net6.0\Samples-CSharp-Basic.exe
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\bin\Debug\net6.0\Samples-CSharp-Basic.deps.json
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\bin\Debug\net6.0\Samples-CSharp-Basic.runtimeconfig.json
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\bin\Debug\net6.0\Samples-CSharp-Basic.dll
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\bin\Debug\net6.0\Samples-CSharp-Basic.pdb
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\obj\Debug\net6.0\Samples-CSharp-Basic.dll
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\obj\Debug\net6.0\refint\Samples-CSharp-Basic.dll
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\obj\Debug\net6.0\Samples-CSharp-Basic.pdb
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\obj\Debug\net6.0\Samples-CSharp-Basic.genruntimeconfig.cache
+D:\GitHub-Repository\Microsoft-Learn\Samples-CSharp-Basic\obj\Debug\net6.0\ref\Samples-CSharp-Basic.dll
